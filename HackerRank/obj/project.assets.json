@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moh3b\\source\\repos\\HR\\HR\\HR.csproj",
-      "projectName": "HR",
-      "projectPath": "C:\\Users\\moh3b\\source\\repos\\HR\\HR\\HR.csproj",
+      "projectUniqueName": "C:\\Users\\moh3b\\source\\repos\\HackerRank\\HackerRank\\HackerRank.csproj",
+      "projectName": "HackerRank",
+      "projectPath": "C:\\Users\\moh3b\\source\\repos\\HackerRank\\HackerRank\\HackerRank.csproj",
       "packagesPath": "C:\\Users\\moh3b\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moh3b\\source\\repos\\HR\\HR\\obj\\",
+      "outputPath": "C:\\Users\\moh3b\\source\\repos\\HackerRank\\HackerRank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
