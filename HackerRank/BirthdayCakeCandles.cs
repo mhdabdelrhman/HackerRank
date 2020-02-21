@@ -31,7 +31,6 @@ class BirthdayCakeCandles
 
     static void Main(string[] args)
     {
-        //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
         int arCount = Convert.ToInt32(Console.ReadLine());
 
@@ -40,8 +39,5 @@ class BirthdayCakeCandles
         int result = birthdayCakeCandles(ar);
 
         Console.WriteLine(result);
-
-        //textWriter.Flush();
-        //textWriter.Close();
     }
 }
