@@ -1,0 +1,11 @@
+C:\Users\moh3b\source\repos\HR\HR\bin\Debug\netcoreapp3.1\HR.exe
+C:\Users\moh3b\source\repos\HR\HR\bin\Debug\netcoreapp3.1\HR.deps.json
+C:\Users\moh3b\source\repos\HR\HR\bin\Debug\netcoreapp3.1\HR.runtimeconfig.json
+C:\Users\moh3b\source\repos\HR\HR\bin\Debug\netcoreapp3.1\HR.runtimeconfig.dev.json
+C:\Users\moh3b\source\repos\HR\HR\bin\Debug\netcoreapp3.1\HR.dll
+C:\Users\moh3b\source\repos\HR\HR\bin\Debug\netcoreapp3.1\HR.pdb
+C:\Users\moh3b\source\repos\HR\HR\obj\Debug\netcoreapp3.1\HR.AssemblyInfoInputs.cache
+C:\Users\moh3b\source\repos\HR\HR\obj\Debug\netcoreapp3.1\HR.AssemblyInfo.cs
+C:\Users\moh3b\source\repos\HR\HR\obj\Debug\netcoreapp3.1\HR.dll
+C:\Users\moh3b\source\repos\HR\HR\obj\Debug\netcoreapp3.1\HR.pdb
+C:\Users\moh3b\source\repos\HR\HR\obj\Debug\netcoreapp3.1\HR.csprojAssemblyReference.cache
